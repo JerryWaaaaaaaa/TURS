@@ -24,7 +24,7 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 <table border="0">
   <tr>
-     <td width="600"><img src="/inspiration/Reality-Mediators.jpg"></td>
+     <td width="600"><img src="/inspiration/Reality-Mediators.png"></td>
      <td>Tan's Reality Mediators project hooks up wearable sensors that detect muscle movements, brainwave activity and GPS location with four different devices that cause discomfort to the body. If the wearer stops moving or has a lull in mental activity for too long they will experience either an electric shock, an unpleasant sound, intense heat or irritating vibration.</td>
   </tr>
 </table>
