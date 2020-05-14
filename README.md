@@ -17,14 +17,14 @@ The Ultraviolet Respiration System (TURS) is a human body extension that receive
 TURS is designed as a soft robotic system that includes a receiver attached at the user's back and an actuator attached at the arm. The receiver constantly collects the UV intensity, sends the data to the cloud for data processing, and stores the data in the database. The actuator, a soft robotic arm, subscribes to the database and reacts to the data. The soft robotic arm can be inflated and deflated, creating an effect of a breathing skin. The change of the respire rate is a representation of the change of the ultraviolet intensity and the ultraviolet dose.
 
 
-
+<br>
 
 ## Inspirations
 #### **Inspiration01 -** [Reality Mediators wearable technology by Ling Tan punishes laziness](https://www.dezeen.com/2013/12/09/reality-mediators-wearable-technology-punishes-laziness-ling-tan/)
 
 <table border="0">
   <tr>
-     <td><img width="1280" src="/inspiration/Reality-Mediators.jpg"></td>
+     <td width="500"><img src="/inspiration/Reality-Mediators.jpg"></td>
      <td>Tan's Reality Mediators project hooks up wearable sensors that detect muscle movements, brainwave activity and GPS location with four different devices that cause discomfort to the body. If the wearer stops moving or has a lull in mental activity for too long they will experience either an electric shock, an unpleasant sound, intense heat or irritating vibration.</td>
   </tr>
 </table>
@@ -32,24 +32,23 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 #### **Inspiration02 -**  [bioLogic](https://morphingmatter.cs.cmu.edu/second-skin/)
 
-<br>
-
-<p align="center">
-  <img width="1280" src="/inspiration/BioLab.png">
-</p>
-<p>bioLogic seeks a harmonious perspective, where biological and engineering approaches flow in sync. These animate cells are harvested in a bio lab, assembled by a micron-resolution bio-printing system, and transformed into responsive fashion, a “Second Skin”. We can now observe the self-transforming biological skin activated by living bacteria. The synthetic bio-skin reacts to body heat and sweat, causing flaps around heat zones to open, enabling sweat to evaporate and cool down the body through an organic material flux. In collaboration with New Balance, bioLogic is bringing what once may have lived in the realm of fantasies into the world of sportswear.</p>
-
+<table border="0">
+  <tr>
+     <td width="500"><img src="/inspiration/BioLab.png"></td>
+     <td>bioLogic seeks a harmonious perspective, where biological and engineering approaches flow in sync. These animate cells are harvested in a bio lab, assembled by a micron-resolution bio-printing system, and transformed into responsive fashion, a “Second Skin”. We can now observe the self-transforming biological skin activated by living bacteria. The synthetic bio-skin reacts to body heat and sweat, causing flaps around heat zones to open, enabling sweat to evaporate and cool down the body through an organic material flux. In collaboration with New Balance, bioLogic is bringing what once may have lived in the realm of fantasies into the world of sportswear.</td>
+  </tr>
+</table>
 
 
 ## Physical Prototype
 <!-- * Photos (minimum full HD) -->
 
-<img width="1280" src="photo/from_back.png">
+<img width="1280" src="photo/from_back.PNG">
 <table border="0">
  <tr>
-    <td><img src="/photo/from_45.png" width="1280"</img></td>
-    <td><img src="/photo/from_side_01.png" width="1280"</img></td>
-    <td><img src="/photo/from_side_02.png" width="1280"</img></td>
+    <td><img src="/photo/from_45.PNG" width="1280"</img></td>
+    <td><img src="/photo/from_side_01.PNG" width="1280"</img></td>
+    <td><img src="/photo/from_side_02.PNG" width="1280"</img></td>
  </tr>
 </table>
 
