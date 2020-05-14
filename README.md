@@ -98,7 +98,7 @@ The network is achieved by a heavy interchange of data between the local receive
 <!-- <div style="page-break-after: always;"></div> -->
 
 
-# Presentation (optional)
+# Presentation
 
 <p align="center">
   <img width="1200" src="presentation.png">
