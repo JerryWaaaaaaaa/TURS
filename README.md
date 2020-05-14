@@ -24,7 +24,7 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 <table border="0">
   <tr>
-     <td width="500"><img src="/inspiration/Reality-Mediators.jpg"></td>
+     <td width="600"><img src="/inspiration/Reality-Mediators.jpg"></td>
      <td>Tan's Reality Mediators project hooks up wearable sensors that detect muscle movements, brainwave activity and GPS location with four different devices that cause discomfort to the body. If the wearer stops moving or has a lull in mental activity for too long they will experience either an electric shock, an unpleasant sound, intense heat or irritating vibration.</td>
   </tr>
 </table>
@@ -34,11 +34,12 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 <table border="0">
   <tr>
-     <td width="500"><img src="/inspiration/BioLab.png"></td>
+     <td width="600"><img src="/inspiration/BioLab.png"></td>
      <td>bioLogic seeks a harmonious perspective, where biological and engineering approaches flow in sync. These animate cells are harvested in a bio lab, assembled by a micron-resolution bio-printing system, and transformed into responsive fashion, a “Second Skin”. We can now observe the self-transforming biological skin activated by living bacteria. The synthetic bio-skin reacts to body heat and sweat, causing flaps around heat zones to open, enabling sweat to evaporate and cool down the body through an organic material flux. In collaboration with New Balance, bioLogic is bringing what once may have lived in the realm of fantasies into the world of sportswear.</td>
   </tr>
 </table>
 
+<br>
 
 ## Physical Prototype
 <!-- * Photos (minimum full HD) -->
@@ -52,7 +53,7 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
  </tr>
 </table>
 
-
+<br>
 
 
 ## Network Diagram
@@ -69,9 +70,7 @@ The upward process updates the database with the latest UV intensity. The receiv
 
 The downward process updates the Arduino MKR GSM 1400 with the latest data whenever Arduino restarts. The Node.js server obtains the data from the database, encodes it to a readable form for Arduino, and sends the data to Arduino using MQTT. After the Arduino received the data, it actuates the robotic arm.
 
----
-<!-- <div style="page-break-after: always;"></div> -->
-
+<br>
 
 ## Code
 
@@ -84,9 +83,7 @@ The network is achieved by a heavy interchange of data between the local receive
  </tr>
 </table>
 
----
-<!-- <div style="page-break-after: always;"></div> -->
-
+<br>
 
 ## Presentation
 
@@ -96,7 +93,7 @@ The network is achieved by a heavy interchange of data between the local receive
 
 Here is the [presentation](https://drive.google.com/file/d/1sPQjfbqbn5Cp4C4C8AliDUMtFgdsY01L/view?usp=sharing) of the final implementation.
 
-
+<br>
 
 ## Final Implementation
 
@@ -106,8 +103,7 @@ Here is the [presentation](https://drive.google.com/file/d/1sPQjfbqbn5Cp4C4C8Ali
 
 Here is the [video](https://www.youtube.com/watch?v=Z9AGKCLCHhQ) of the final implementation.
 
-
-
+<br>
 
 ## References
 
