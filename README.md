@@ -7,7 +7,9 @@ Jerry, Wang
 
 ## Concept
 
-![Image of TURS](photo/from_45.png)
+<p align="center">
+  <img width="1280" src="/photo/from_45.png">
+</p>
 
 The Ultraviolet Respiration System (TURS) is a human body extension that receives, processes, and reacts to the ultraviolet light radiation. TURS extends human’s perception of an unseen light by encoding technology into the human body. It also explores a form of human-cyborg that enables the wearer to perform special tasks under extreme environments.
 <br><br>
@@ -19,18 +21,20 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 ## Inspirations
 #### **Inspiration01 -** [Reality Mediators wearable technology by Ling Tan punishes laziness](https://www.dezeen.com/2013/12/09/reality-mediators-wearable-technology-punishes-laziness-ling-tan/)
 
-<p align="center">
-  <img width="1280" src="inspiration/Reality-Mediators.jpg">
-</p>
+<table border="0">
+  <tr>
+     <td><img width="1280" src="/inspiration/Reality-Mediators.jpg"></td>
+     <td>Tan's Reality Mediators project hooks up wearable sensors that detect muscle movements, brainwave activity and GPS location with four different devices that cause discomfort to the body. If the wearer stops moving or has a lull in mental activity for too long they will experience either an electric shock, an unpleasant sound, intense heat or irritating vibration.</td>
+  </tr>
+</table>
 
-Tan's Reality Mediators project hooks up wearable sensors that detect muscle movements, brainwave activity and GPS location with four different devices that cause discomfort to the body. If the wearer stops moving or has a lull in mental activity for too long they will experience either an electric shock, an unpleasant sound, intense heat or irritating vibration.</p>
 
 #### **Inspiration02 -**  [bioLogic](https://morphingmatter.cs.cmu.edu/second-skin/)
 
 <br>
 
 <p align="center">
-  <img width="1280" src="Inspiration/BioLab.png">
+  <img width="1280" src="/inspiration/BioLab.png">
 </p>
 <p>bioLogic seeks a harmonious perspective, where biological and engineering approaches flow in sync. These animate cells are harvested in a bio lab, assembled by a micron-resolution bio-printing system, and transformed into responsive fashion, a “Second Skin”. We can now observe the self-transforming biological skin activated by living bacteria. The synthetic bio-skin reacts to body heat and sweat, causing flaps around heat zones to open, enabling sweat to evaporate and cool down the body through an organic material flux. In collaboration with New Balance, bioLogic is bringing what once may have lived in the realm of fantasies into the world of sportswear.</p>
 
@@ -42,9 +46,9 @@ Tan's Reality Mediators project hooks up wearable sensors that detect muscle mov
 <img width="1280" src="photo/from_back.png">
 <table border="0">
  <tr>
-    <td><img src="photo/from_45.png" width="1280"</img></td>
-    <td><img src="photo/from_side_01.png" width="1280"</img></td>
-    <td><img src="photo/from_side_02.png" width="1280"</img></td>
+    <td><img src="/photo/from_45.png" width="1280"</img></td>
+    <td><img src="/photo/from_side_01.png" width="1280"</img></td>
+    <td><img src="/photo/from_side_02.png" width="1280"</img></td>
  </tr>
 </table>
 
@@ -75,8 +79,8 @@ The network is achieved by a heavy interchange of data between the local receive
 
 <table border="0">
  <tr>
-    <td><img src="code/code1.png"</img></td>
-    <td><img src="code/code2.png"</img></td>
+    <td><img src="/code/code1.png"</img></td>
+    <td><img src="/code/code2.png"</img></td>
  </tr>
 </table>
 
