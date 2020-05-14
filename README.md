@@ -34,7 +34,7 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 <table border="0">
   <tr>
-     <td width="600"><img src="/inspiration/bioLab.png"></td>
+     <td width="600"><img src="/inspiration/BioLab.png"></td>
      <td>bioLogic seeks a harmonious perspective, where biological and engineering approaches flow in sync. These animate cells are harvested in a bio lab, assembled by a micron-resolution bio-printing system, and transformed into responsive fashion, a “Second Skin”. We can now observe the self-transforming biological skin activated by living bacteria. The synthetic bio-skin reacts to body heat and sweat, causing flaps around heat zones to open, enabling sweat to evaporate and cool down the body through an organic material flux. In collaboration with New Balance, bioLogic is bringing what once may have lived in the realm of fantasies into the world of sportswear.</td>
   </tr>
 </table>
@@ -42,7 +42,6 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 <br>
 
 ## Physical Prototype
-<!-- * Photos (minimum full HD) -->
 
 <img width="1280" src="photo/from_back.PNG">
 <table border="0">
