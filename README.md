@@ -12,7 +12,7 @@ Jerry, Wang
   <img width="1280" src="/photo/from_45.PNG">
 </p>
 
-The Ultraviolet Respiration System (TURS) is a human body extension that receives, processes, and reacts to the ultraviolet light radiation. TURS extends human’s perception of an unseen light by encoding technology into the human body. It also explores a form of human-cyborg that enables the wearer to perform special tasks under extreme environments.
+The Ultraviolet Respiration System (TURS) is a human body extension that receives, processes, and reacts to ultraviolet light radiation. TURS extends our perception of the unseen light by encoding technology into the body. It explores posthumanism with a practical implementation that reimagines the integration of machines into the functions of the flesh.
 <br><br>
 TURS is designed as a soft robotic system that includes a receiver attached at the user's back and an actuator attached at the arm. The receiver constantly collects the UV intensity, sends the data to the cloud for data processing, and stores the data in the database. The actuator, a soft robotic arm, subscribes to the database and reacts to the data. The soft robotic arm can be inflated and deflated, creating an effect of a breathing skin. The change of the respire rate is a representation of the change of the ultraviolet intensity and the ultraviolet dose.
 
