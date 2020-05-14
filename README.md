@@ -3,12 +3,13 @@
 **Extended Perception 2020** <br>
 Interactive Media Arts, NYU Shanghai <br>
 Jerry, Wang
-
+<br>
+<br>
 
 ## Concept
 
 <p align="center">
-  <img width="1280" src="/photo/from_45.png">
+  <img width="1280" src="/photo/from_45.PNG">
 </p>
 
 The Ultraviolet Respiration System (TURS) is a human body extension that receives, processes, and reacts to the ultraviolet light radiation. TURS extends human’s perception of an unseen light by encoding technology into the human body. It also explores a form of human-cyborg that enables the wearer to perform special tasks under extreme environments.
