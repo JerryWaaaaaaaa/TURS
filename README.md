@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="1280" src="/photo/from_45.PNG">
+  <img width="1280" src="photo/from_side_02.png">
 </p>
 
 **[Extended Perception 2020](https://wp.nyu.edu/shanghai-ima-extendedperception/)** <br>
@@ -49,12 +49,12 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 ## Physical Prototype
 
-<img width="1280" src="photo/from_back.PNG">
+<img width="1280" src="photo/from_side_01.png">
 <table border="0">
  <tr>
-    <td><img src="/photo/from_45.PNG" width="1280"</img></td>
-    <td><img src="/photo/from_side_01.PNG" width="1280"</img></td>
-    <td><img src="/photo/from_side_02.PNG" width="1280"</img></td>
+    <td><img src="/photo/from_back_01.png" width="1280"</img></td>
+    <td><img src="/photo/from_back_02.png" width="1280"</img></td>
+    <td><img src="/photo/from_side_02.png" width="1280"</img></td>
  </tr>
 </table>
 
