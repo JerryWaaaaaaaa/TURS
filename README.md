@@ -5,7 +5,7 @@
   <img width="1280" src="photo/from_side_02.png">
 </p>
 
-**[Extended Perception 2020](https://wp.nyu.edu/shanghai-ima-extendedperception/)** <br>
+**[Extended Perception Spring 2020](https://wp.nyu.edu/shanghai-ima-extendedperception/)** <br>
 Interactive Media Arts, NYU Shanghai <br>
 Jerry, Wang
 <br>
