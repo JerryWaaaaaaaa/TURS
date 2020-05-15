@@ -31,13 +31,12 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
   <tr>
      <td width="300"><img src="/inspiration/Reality-Mediators.png"></td>
      <td>
-     **Reality Mediators wearable technology by Ling Tan punishes laziness**
      Tan's Reality Mediators project hooks up wearable sensors that detect muscle movements, brainwave activity and GPS location with four different devices that cause discomfort to the body. If the wearer stops moving or has a lull in mental activity for too long they will experience either an electric shock, an unpleasant sound, intense heat or irritating vibration.</td>
   </tr>
 </table>
 
 
-* #### **Inspiration02 -**  [bioLogic](https://morphingmatter.cs.cmu.edu/second-skin/)
+* **Inspiration02 -**  [bioLogic](https://morphingmatter.cs.cmu.edu/second-skin/)
 
 <table border="0">
   <tr>
@@ -64,18 +63,24 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 ## Network Diagram
 
-The major components in the network includes a receiver encoded with the Arduino MKR GSM 1400, CloudMQTT, Node.js server, and a database backed by mLab. The whole process can be divided into the upward process and the downward process.
+**Segments** <br>
+* Arduino MKR GSM 1400
+* CloudMQTT
+* Node.js server
+* mLab Database
 
 <p align="center">
-  <img width="1000" src="network.png">
+  <img width="1000" src="network/upward.png">
 </p>
-
-<br>
 
 1. **The upward process** <br>
 The upward process updates the database with the latest UV intensity. The receiver constantly collects the UV radiation and passes the data to CloudMQTT. The Node.js server subscribes to the CouldMQTT and executes the data processing when receiving new data. After the data processing, the Node.js server stores the data on the database for the downward process.
 
-1. **The downward process** <br>
+<p align="center">
+  <img width="1000" src="network/downward.png">
+</p>
+
+2. **The downward process** <br>
 The downward process updates the Arduino MKR GSM 1400 with the latest data whenever Arduino restarts. The Node.js server obtains the data from the database, encodes it to a readable form for Arduino, and sends the data to Arduino using MQTT. After the Arduino received the data, it actuates the robotic arm.
 
 <br>
