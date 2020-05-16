@@ -11,7 +11,12 @@ Jerry, Wang
 <br>
 
 **Keywords** <br>
-ultraviolet light, cyborg, posthumanism, soft robotics, digital skin, pneumatics
+[ultraviolet light](https://en.wikipedia.org/wiki/Ultraviolet),
+[cyborg](https://en.wikipedia.org/wiki/Cyborg),
+[posthumanism](https://en.wikipedia.org/wiki/Posthumanism),
+[soft robotics](https://en.wikipedia.org/wiki/Soft_robotics),
+[digital skin](https://www.popsci.com/tags/digital-skin/),
+[pneumatics](https://en.wikipedia.org/wiki/Pneumatics)
 
 <br>
 
