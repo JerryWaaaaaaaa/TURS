@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="1280" src="photo/from_side_02.png">
+  <img width="1280" src="photo/side_02.png">
 </p>
 
 **[Extended Perception Spring 2020](https://wp.nyu.edu/shanghai-ima-extendedperception/)** <br>
@@ -52,21 +52,21 @@ TURS is designed as a soft robotic system that includes a receiver attached at t
 
 <br>
 
-## Physical Prototype
+### Physical Prototype
 
-<img width="1280" src="photo/from_side_01.png">
+<img width="1280" src="/photo/model.png">
 <table border="0">
  <tr>
-    <td><img src="/photo/from_back_01.png" width="1280"</img></td>
-    <td><img src="/photo/from_back_02.png" width="1280"</img></td>
-    <td><img src="/photo/from_side_02.png" width="1280"</img></td>
+    <td><img src="/photo/side_01.png" width="1280"</img></td>
+    <td><img src="/photo/back_02.png" width="1280"</img></td>
+    <td><img src="/photo/side_02.png" width="1280"</img></td>
  </tr>
 </table>
 
 <br>
 
 
-## Network Diagram
+### Network Diagram
 
 **Segments** <br>
 * Arduino MKR GSM 1400
@@ -90,7 +90,7 @@ The downward process updates the Arduino MKR GSM 1400 with the latest data whene
 
 <br>
 
-## Code
+### Code
 
 The network is achieved by a heavy interchange of data between the local receiver and the database using CloudMQTT and Node.js server as the data intermediate. The receiver is encoded in Arduino, which includes the code for both MQTT communication and the actuator control. As the data intermediate, the Node.js server connects the database and the Arduino by sending data back and forth to the CloudMQTT. It's also where the data processing happens.
 
@@ -103,23 +103,23 @@ The network is achieved by a heavy interchange of data between the local receive
 
 <br>
 
-## Presentation
-
-<p align="center">
-  <img width="1200" src="presentation.png">
-</p>
-
-Here is the [presentation](https://drive.google.com/file/d/1sPQjfbqbn5Cp4C4C8AliDUMtFgdsY01L/view?usp=sharing) of the final implementation.
-
-<br>
-
-## Final Implementation
+### Final Implementation
 
 <p align="center">
   <img width="1200" src="implementation.png">
 </p>
 
 Here is the [video](https://www.youtube.com/watch?v=Z9AGKCLCHhQ) of the final implementation.
+
+<br>
+
+### Presentation
+
+<!-- <p align="center">
+  <img width="1200" src="presentation.png">
+</p> -->
+
+Here is the [presentation](https://drive.google.com/file/d/1sPQjfbqbn5Cp4C4C8AliDUMtFgdsY01L/view?usp=sharing) of the final implementation.
 
 <br>
 
