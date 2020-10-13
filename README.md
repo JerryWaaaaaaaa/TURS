@@ -109,7 +109,7 @@ The network is achieved by a heavy interchange of data between the local receive
   <img width="1200" src="implementation.png">
 </p>
 
-Here is the [video](https://www.youtube.com/watch?v=Z9AGKCLCHhQ) of the final implementation.
+Here is the [video](https://www.youtube.com/watch?v=HSqwQRxKp-g) of the final implementation.
 
 <br>
 
